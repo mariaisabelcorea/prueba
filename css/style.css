@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#header-area {
+	background-color: transparent;
+	color: #FFF;
+}
+
+#sec-home {
+	background-image: url(../img/header-background.jpg);
+	background-repeat: no-repeat;
+	padding-top: 300px;
+	padding-bottom: 100px;
+	
+}
+
+#sec-home h1{
+	color: #FFF;
+	font-size: 70px;
+}
+#sec-home p{
+	color: #FFF;
+	
+}
+
+
+.nav-link:hover{
+	color: #000 !important;
+}
+
+.btn-uno{
+	background-color: #298aff;
+	color: #FFF;
+	border-color: #298aff;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 30px;
+}
+
+.btn-dos{
+	background-color: transparent;
+	border-color: #FFF;
+	color: #FFF;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-radius: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.espacio{
+	padding-left: 400px;
+}
+
+#sec-features{
+	background-color: #f2f3f5;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
